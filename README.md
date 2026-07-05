@@ -1,5 +1,5 @@
 # BFO-DQL
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21209576.svg)](https://doi.org/10.5281/zenodo.21209576)
+[![DOI](https://zenodo.org/badge/1290125466.svg)](https://doi.org/10.5281/zenodo.21208986)
 
 Hybrid Deep Q-Learning and Bacterial Foraging Hyper-Heuristic for Cloud Task Scheduling
